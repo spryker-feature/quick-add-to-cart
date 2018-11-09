@@ -1,0 +1,12 @@
+{
+  "name": "spryker-feature/quick-add-to-cart",
+  "description": "Quick add to cart [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/cart": "~2018.11.0",
+    "spryker-shop/quick-order-page": "^1.1.0"
+  }
+}
