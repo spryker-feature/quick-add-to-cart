@@ -9,5 +9,10 @@
     "spryker-feature/cart": "^201902.0",
     "spryker-shop/quick-order-page": "^2.1.1",
     "spryker/quick-order": "^1.0.1"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
