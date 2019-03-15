@@ -1,6 +1,6 @@
 # Spryker Feature: Quick add to cart
 
-Ability to add multiple products to cart at once
+The Quick Add to Cart feature allows the shop customers to add multiple products to cart at once.
 
 ## Installation
 
