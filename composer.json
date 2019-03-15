@@ -8,7 +8,7 @@
   "require": {
     "php": ">=7.1",
     "spryker-feature/cart": "^201903.0",
-    "spryker-shop/quick-order-page": "^2.2.2",
+    "spryker-shop/quick-order-page": "^2.4.0",
     "spryker/quick-order": "^1.1.0"
   },
   "extra": {
