@@ -8,8 +8,8 @@
   "require": {
     "php": ">=7.1",
     "spryker-feature/cart": "^201906.0",
-    "spryker-shop/quick-order-page": "^2.4.0",
-    "spryker/quick-order": "^1.1.0"
+    "spryker-shop/quick-order-page": "^3.0.0",
+    "spryker/quick-order": "^2.0.0"
   },
   "extra": {
     "branch-alias": {
