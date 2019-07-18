@@ -7,7 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/cart": "^201907.0",
     "spryker-shop/quick-order-page": "^4.0.0",
     "spryker/quick-order": "^3.0.0"
   },
