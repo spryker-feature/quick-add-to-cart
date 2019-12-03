@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.1",
+    "php": ">=7.2",
     "spryker-shop/quick-order-page": "^4.0.0",
     "spryker/quick-order": "^3.0.0"
   },
