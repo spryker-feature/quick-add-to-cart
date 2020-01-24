@@ -7,7 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/cart": "^201903.0",
     "spryker-shop/quick-order-page": "^2.4.0",
     "spryker/quick-order": "^1.1.0"
   },
@@ -15,5 +14,8 @@
     "branch-alias": {
       "dev-master": "201903.x-dev"
     }
+  },
+  "suggest": {
+    "spryker-feature/cart": "Recommended feature dependency."
   }
 }
