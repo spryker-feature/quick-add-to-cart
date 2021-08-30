@@ -1,21 +1,21 @@
 {
-  "name": "spryker-feature/quick-add-to-cart",
-  "description": "Quick add to cart [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker-shop/quick-order-page": "^4.4.0",
-    "spryker/quick-order": "^3.0.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/quick-add-to-cart",
+    "description": "Quick add to cart [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker-shop/quick-order-page": "^4.5.0",
+        "spryker/quick-order": "^3.0.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/cart": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/cart": "Recommended feature dependency."
-  }
 }
