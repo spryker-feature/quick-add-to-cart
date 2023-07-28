@@ -2,6 +2,8 @@
 
 The Quick Add to Cart feature allows the shop customers to add multiple products to cart at once.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/cart-and-checkout/202307.0/base-shop/quick-add-to-cart-feature-overview.html)
+
 ## Installation
 
 ```
