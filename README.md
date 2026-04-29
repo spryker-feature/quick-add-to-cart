@@ -17,4 +17,4 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [QuickOrderExtension ^1.1.0](https://github.com/spryker/quick-order-extension) (Extension)
-- [Shop.QuickOrderPageExtension ^1.2.0](https://github.com/spryker-shop/quick-order-page-extension) (Extension)
+- [Shop.QuickOrderPageExtension ^1.3.0](https://github.com/spryker-shop/quick-order-page-extension) (Extension)
