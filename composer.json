@@ -7,12 +7,12 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/quick-order-page": "^4.13.0",
+        "spryker-shop/quick-order-page": "^4.14.0",
         "spryker/quick-order": "^3.1.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202602.x-dev"
+            "dev-master": "202604.x-dev"
         }
     },
     "suggest": {
